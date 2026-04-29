@@ -76,9 +76,9 @@
 
 <div align="center">
 
-| 유형 | 티어 | 문제 | 출처 | 풀&#8288;이 | 날&#8288;짜 | Comment | RE? |
-|:---:|:----:|:---:|:---:|:---:|:----------:|:---:|:---:|
-| 브루트포스 | D2 | <a href="#">🪰 파리 퇴치</a> | SWEA | <a href="./solutions/Brute_Force/SWEA_2001_파리퇴치.md">풀이</a> | 2026-04-29 |  |  |
+| 유형 | 티어 |           문제            | 출처 | 풀&#8288;이 | 날&#8288;짜 | Comment | RE? |
+|:---:|:----:|:-----------------------:|:---:|:---:|:----------:|:---:|:---:|
+| 브루트포스 | D2 | <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PzOCKAigDFAUq">🪰 파리 퇴치</a> | SWEA | <a href="./solutions/Brute_Force/SWEA_2001_파리퇴치.md">풀이</a> | 2026-04-29 |  |  |
 
 </div>
 
