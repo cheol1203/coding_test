@@ -76,6 +76,7 @@
 
 | 유형 | 티어 |           문제            | 출처 | 풀&#8288;이 | 날&#8288;짜 | Comment | RE? |
 |:---:|:----:|:-----------------------:|:---:|:---:|:----------:|:-------:|:---:|
+| 구현 | D2 | <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV189xUaI8UCFAZN">🚰 수도 요금 경쟁</a> | SWEA | <a href="./solutions/Implementation/SWEA_1284_수도요금경쟁.md">풀이</a> | 2026-04-30 |  |  |
 | 구현 | D2 | <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV13zo1KAAACFAYh">📊 최빈수 구하기</a> | SWEA | <a href="./solutions/Implementation/SWEA_1204_최빈수구하기.md">풀이</a> | 2026-04-30 |  |  |
 | 구현 | D2 | <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PwGK6AcIDFAUq">🧑‍🏫 조교의 성적 매기기</a> | SWEA | <a href="./solutions/Implementation/SWEA_1983_조교의성적매기기.md">풀이</a> | 2026-04-30 | AI풀이 참고 | ✅ |
 | 브루트포스 | D2 | <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PzOCKAigDFAUq">🪰 파리 퇴치</a> | SWEA | <a href="./solutions/Brute_Force/SWEA_2001_파리퇴치.md">풀이</a> | 2026-04-29 |         |  |
