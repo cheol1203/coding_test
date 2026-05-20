@@ -21,6 +21,7 @@
 
 | 유형 | 티어 |           문제            | 출처 |                             풀&#8288;이                             | 날&#8288;짜 |      Comment      | RE? |
 |:---:|:----:|:-----------------------:|:---:|:-----------------------------------------------------------------:|:----------:|:-----------------:|:---:|
+| 구현 | D3 | <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14uWl6AF0CFAYD">🔐 암호생성기</a> | SWEA | <a href="./solutions/Implementation/SWEA_1225_암호생성기.md">풀이</a> | 2026-05-20 |   자료구조 queue 사용   |  |
 | DFS/백트래킹 | D3 | <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWT-lPB6dHUDFAVT">🍔 햄버거 다이어트</a> | SWEA |     <a href="./solutions/BFS_DFS/SWEA_5215_햄버거다이어트.md">풀이</a>     | 2026-05-20 |     AI 풀이 참고      | ✅ |
 | 구현 | D3 | <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV7GLXqKAWYDFAXB">🌾 농작물 수확하기</a> | SWEA | <a href="./solutions/Implementation/SWEA_2805_농작물수확하기.md">풀이</a>  | 2026-05-13 |     AI 풀이 참고      | ✅ |
 | 구현 | D3 | <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV13_BWKACUCFAYh">➕ Sum</a> | SWEA |   <a href="./solutions/Implementation/SWEA_1209_Sum.md">풀이</a>    | 2026-05-07 |                   |  |
