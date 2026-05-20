@@ -21,9 +21,10 @@
 
 | 유형 | 티어 |           문제            | 출처 |                             풀&#8288;이                             | 날&#8288;짜 |      Comment      | RE? |
 |:---:|:----:|:-----------------------:|:---:|:-----------------------------------------------------------------:|:----------:|:-----------------:|:---:|
-| 구현 | D3 | <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV7GLXqKAWYDFAXB">🌾 농작물 수확하기</a> | SWEA | <a href="./solutions/Implementation/SWEA_2805_농작물수확하기.md">풀이</a> | 2026-05-13 |     AI 풀이 참고      | ✅ |
-| 구현 | D3 | <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV13_BWKACUCFAYh">➕ Sum</a> | SWEA | <a href="./solutions/Implementation/SWEA_1209_Sum.md">풀이</a> | 2026-05-07 |                   |  |
-| 구현 | D3 | <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV139KOaABgCFAYh">📦 Flatten</a> | SWEA | <a href="./solutions/Implementation/SWEA_1208_Flatten.md">풀이</a> | 2026-05-07 | 최종 최댓값/최솟값 재계산 실수 |  |
+| DFS/백트래킹 | D3 | <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWT-lPB6dHUDFAVT">🍔 햄버거 다이어트</a> | SWEA |     <a href="./solutions/BFS_DFS/SWEA_5215_햄버거다이어트.md">풀이</a>     | 2026-05-20 |     AI 풀이 참고      | ✅ |
+| 구현 | D3 | <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV7GLXqKAWYDFAXB">🌾 농작물 수확하기</a> | SWEA | <a href="./solutions/Implementation/SWEA_2805_농작물수확하기.md">풀이</a>  | 2026-05-13 |     AI 풀이 참고      | ✅ |
+| 구현 | D3 | <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV13_BWKACUCFAYh">➕ Sum</a> | SWEA |   <a href="./solutions/Implementation/SWEA_1209_Sum.md">풀이</a>    | 2026-05-07 |                   |  |
+| 구현 | D3 | <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV139KOaABgCFAYh">📦 Flatten</a> | SWEA | <a href="./solutions/Implementation/SWEA_1208_Flatten.md">풀이</a>  | 2026-05-07 | 최종 최댓값/최솟값 재계산 실수 |  |
 | DFS/백트래킹 | D3 | <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15Khn6AN0CFAYD">💰 최대 상금</a> | SWEA |      <a href="./solutions/BFS_DFS/SWEA_1244_최대상금.md">풀이</a>       | 2026-05-07 |     AI 풀이 참고      | ✅ |
 | 구현 | D2 | <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PobmqAPoDFAUq">🐌 달팽이 숫자</a> | SWEA |    <a href="./solutions/Implementation/달팽이_숫자_1954.md">풀이</a>     | 2026-05-06 |     AI 풀이 참고      | ✅ |
 | 구현 | D3 | <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV134DPqAA8CFAYh">🏙️ View</a> | SWEA |   <a href="./solutions/Implementation/SWEA_1206_View.md">풀이</a>   | 2026-05-04 |                   |  |
