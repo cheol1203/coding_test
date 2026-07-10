@@ -21,6 +21,7 @@
 
 |    유형    | 티어 |           문제            | 출처 |                             풀&#8288;이                             | 날&#8288;짜 |      Comment      | RE? |
 |:--------:|:----:|:-----------------------:|:---:|:-----------------------------------------------------------------:|:----------:|:-----------------:|:---:|
+| 스택 | Lv.2 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12909">✅ 올바른 괄호</a> | 프로그래머스 | <a href="./solutions/Stack/Programmers_12909_올바른괄호.md">풀이</a> | 2026-07-10 |                   |  |
 | DP | D3 | <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWBJAVpqrzQDFAWr">🎒 0/1 Knapsack</a> | SWEA | <a href="./solutions/DP/SWEA_3282_01Knapsack.md">풀이</a> | 2026-05-21 |     첫 dp,개어렵      | ✅ |
 | DFS/백트래킹 | D3 | <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV7IzvG6EksDFAXB">🔢 부분 수열의 합</a> | SWEA | <a href="./solutions/BFS_DFS/SWEA_2817_부분수열의합.md">풀이</a> | 2026-05-21 |                   |  |
 | 구현 | D3 | <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14vXUqAAwCFAYD">🧲 Magnetic</a> | SWEA | <a href="./solutions/Implementation/SWEA_1220_Magnetic.md">풀이</a> | 2026-05-21 |     AI 힌트 참고      | ✅ |
