@@ -21,6 +21,7 @@
 
 |    유형    | 티어 |           문제            | 출처 |                              풀&#8288;이                              | 날&#8288;짜 |      Comment      | RE? |
 |:--------:|:----:|:-----------------------:|:---:|:-------------------------------------------------------------------:|:----------:|:-----------------:|:---:|
+| 문자열 | Lv.2 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12951">🔤 JadenCase 문자열 만들기</a> | 프로그래머스 | <a href="./solutions/String/Programmers_12951_JadenCase문자열만들기.md">풀이</a> | 2026-07-13 |    split 사용 주의    | ✅ |
 |    정렬    | Lv.2 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12941">🔢 최솟값 만들기</a> | 프로그래머스 |  <a href="./solutions/Sorting/Programmers_12941_최솟값만들기.md">풀이</a>   | 2026-07-12 |                   | ✅ |
 |    스택    | Lv.2 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12909">✅ 올바른 괄호</a> | 프로그래머스 | <a href="./solutions/Stack_Queue/Programmers_12909_올바른괄호.md">풀이</a> | 2026-07-10 |                   |     |
 |    DP    | D3 | <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWBJAVpqrzQDFAWr">🎒 0/1 Knapsack</a> | SWEA |       <a href="./solutions/DP/SWEA_3282_01Knapsack.md">풀이</a>       | 2026-05-21 |     첫 dp,개어렵      |  ✅  |
