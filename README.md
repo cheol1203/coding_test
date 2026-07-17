@@ -21,6 +21,7 @@
 
 |    유형    | 티어 |           문제            | 출처 |                              풀&#8288;이                              | 날&#8288;짜 |            Comment            | RE? |
 |:--------:|:----:|:-----------------------:|:---:|:-------------------------------------------------------------------:|:----------:|:-----------------------------:|:---:|
+| 구현/완전탐색 | Lv.2 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12924">🔢 숫자의 표현</a> | 프로그래머스 | <a href="./solutions/Implementation/Programmers_12924_숫자의표현.md">풀이</a> | 2026-07-14 |          투 포인터로 풀이가능          |  |
 | 문자열/구현 | Lv.2 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/70129">🔁 이진 변환 반복하기</a> | 프로그래머스 | <a href="./solutions/String/Programmers_70129_이진변환반복하기.md">풀이</a> | 2026-07-13 | Integer.toBinaryString() 숙지하기 |  |
 | 문자열 | Lv.2 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12951">🔤 JadenCase 문자열 만들기</a> | 프로그래머스 | <a href="./solutions/String/Programmers_12951_JadenCase문자열만들기.md">풀이</a> | 2026-07-13 |          split 사용 주의          | ✅ |
 |    정렬    | Lv.2 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12941">🔢 최솟값 만들기</a> | 프로그래머스 |  <a href="./solutions/Sorting/Programmers_12941_최솟값만들기.md">풀이</a>   | 2026-07-12 |                               | ✅ |
