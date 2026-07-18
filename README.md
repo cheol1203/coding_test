@@ -21,7 +21,7 @@
 
 |    유형    | 티어 |           문제            | 출처 |                                풀&#8288;이                                 | 날&#8288;짜 |            Comment           | RE? |
 |:--------:|:----:|:-----------------------:|:---:|:------------------------------------------------------------------------:|:----------:|:----------------------------:|:---:|
-| 스택 | Lv.2 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12973">🧹 짝지어 제거하기</a> | 프로그래머스 |  <a href="./solutions/Stack_Queue/Programmers_12973_짝지어제거하기.md">풀이</a>   | 2026-07-18 | 스택으로 인접 문자 제거 |  |
+| 스택 | Lv.2 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12973">🧹 짝지어 제거하기</a> | 프로그래머스 |  <a href="./solutions/Stack_Queue/Programmers_12973_짝지어제거하기.md">풀이</a>   | 2026-07-18 |  |  |
 | DP | Lv.2 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12945">🔢 피보나치 수</a> | 프로그래머스 |        <a href="./solutions/DP/Programmers_12945_피보나치수.md">풀이</a>        | 2026-07-18 |                              | ✅ |
 | 구현/비트 | Lv.2 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12911">🔢 다음 큰 숫자</a> | 프로그래머스 |  <a href="./solutions/Implementation/Programmers_12911_다음큰숫자.md">풀이</a>  | 2026-07-14 |    Integer.bitCount로 개선 가능   |  |
 | 구현/완전탐색 | Lv.2 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12924">🔢 숫자의 표현</a> | 프로그래머스 |  <a href="./solutions/Implementation/Programmers_12924_숫자의표현.md">풀이</a>  | 2026-07-14 |          투 포인터로 풀이가능         |  |
