@@ -21,6 +21,7 @@
 
 |     유형      | 티어 |           문제            | 출처 |                                풀&#8288;이                                 | 날&#8288;짜  |            Comment            | RE? |
 |:-----------:|:----:|:-----------------------:|:---:|:------------------------------------------------------------------------:|:----------:|:-----------------------------:|:---:|
+|   문자열/그리디   | D3 | <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV19AcoKI9sCFAZN">💾 원재의 메모리 복구하기</a> | SWEA | <a href="./solutions/Greedy/SWEA_1289_원재의메모리복구하기.md">풀이</a> | 2026-11-13 | 첫 비트와 인접 비트의 변화 횟수로 최소 수정 횟수 계산 |  |
 |    구현/탐색    | D3 | <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXaSUPYqPYMDFASQ&categoryId=AXaSUPYqPYMDFASQ&categoryType=CODE">⚫ 오목 판정</a> | SWEA | <a href="./solutions/Implementation/SWEA_11315_오목판정.md">풀이</a> | 2026-11-04 | 가로·세로·양쪽 대각선 검사, 문자열 입력과 문자 비교 복습 |  |
 |    구현/DP    | D2 | <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5P0-h6Ak4DFAUq&categoryId=AV5P0-h6Ak4DFAUq&categoryType=CODE">🔺 파스칼의 삼각형</a> | SWEA | <a href="./solutions/DP/SWEA_2005_파스칼의삼각형.md">풀이</a> | 2026-11-04 | 이전 행의 두 값을 더해 다음 행 계산|  |
 |  투 포인터/그리디  | Lv.2 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42885">🚤 구명보트</a> | 프로그래머스 | <a href="./solutions/Greedy/Programmers_42885_구명보트.md">풀이</a> | 2026-08-03 | 정렬 후 양끝 포인터로 최소 보트 수 계산 | ✅ |
