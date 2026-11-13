@@ -21,6 +21,7 @@
 
 |     유형      | 티어 |           문제            | 출처 |                                풀&#8288;이                                 | 날&#8288;짜  |            Comment            | RE? |
 |:-----------:|:----:|:-----------------------:|:---:|:------------------------------------------------------------------------:|:----------:|:-----------------------------:|:---:|
+|    구현/DP    | D2 | <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5P0-h6Ak4DFAUq&categoryId=AV5P0-h6Ak4DFAUq&categoryType=CODE">🔺 파스칼의 삼각형</a> | SWEA | <a href="./solutions/DP/SWEA_2005_파스칼의삼각형.md">풀이</a> | 2026-11-04 | SSAFY 준비 워밍업, 이전 행의 두 값을 더해 다음 행 계산 |  |
 |  투 포인터/그리디  | Lv.2 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42885">🚤 구명보트</a> | 프로그래머스 | <a href="./solutions/Greedy/Programmers_42885_구명보트.md">풀이</a> | 2026-08-03 | 정렬 후 양끝 포인터로 최소 보트 수 계산 | ✅ |
 | HashMap/그리디 | Lv.2 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/138476">🍊 귤 고르기</a> | 프로그래머스 | <a href="./solutions/Greedy/Programmers_138476_귤고르기.md">풀이</a> | 2026-07-25 |                               | ✅ |
 |   완전탐색/약수   | Lv.2 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42842">🟫 카펫</a> | 프로그래머스 |     <a href="./solutions/Brute_Force/Programmers_42842_카펫.md">풀이</a>     | 2026-07-21 |        전체 넓이의 약수 후보 탐색        | ✅ |
