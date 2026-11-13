@@ -21,6 +21,7 @@
 
 |     유형      | 티어 |           문제            | 출처 |                                풀&#8288;이                                 | 날&#8288;짜  |            Comment            | RE? |
 |:-----------:|:----:|:-----------------------:|:---:|:------------------------------------------------------------------------:|:----------:|:-----------------------------:|:---:|
+|    구현/문자열    | D3 | <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15FZuqAL4CFAYD">🔐 단순 2진 암호코드</a> | SWEA | <a href="./solutions/Implementation/SWEA_1240_단순2진암호코드.md">풀이</a> | 2026-11-13 | 오른쪽 끝 1에서 56비트 추출, Map으로 숫자 변환 후 검증 |  |
 |   문자열/그리디   | D3 | <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV19AcoKI9sCFAZN">💾 원재의 메모리 복구하기</a> | SWEA | <a href="./solutions/Greedy/SWEA_1289_원재의메모리복구하기.md">풀이</a> | 2026-11-13 | 첫 비트와 인접 비트의 변화 횟수로 최소 수정 횟수 계산 |  |
 |    구현/탐색    | D3 | <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXaSUPYqPYMDFASQ&categoryId=AXaSUPYqPYMDFASQ&categoryType=CODE">⚫ 오목 판정</a> | SWEA | <a href="./solutions/Implementation/SWEA_11315_오목판정.md">풀이</a> | 2026-11-04 | 가로·세로·양쪽 대각선 검사, 문자열 입력과 문자 비교 복습 |  |
 |    구현/DP    | D2 | <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5P0-h6Ak4DFAUq&categoryId=AV5P0-h6Ak4DFAUq&categoryType=CODE">🔺 파스칼의 삼각형</a> | SWEA | <a href="./solutions/DP/SWEA_2005_파스칼의삼각형.md">풀이</a> | 2026-11-04 | 이전 행의 두 값을 더해 다음 행 계산|  |
