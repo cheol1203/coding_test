@@ -21,6 +21,7 @@
 
 |     유형      | 티어 |           문제            | 출처 |                                풀&#8288;이                                 | 날&#8288;짜  |            Comment            | RE? |
 |:-----------:|:----:|:-----------------------:|:---:|:------------------------------------------------------------------------:|:----------:|:-----------------------------:|:---:|
+|    구현/배열    | D2 | <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5Pq-OKAVYDFAUq">🔄 숫자 배열 회전</a> | SWEA | <a href="./solutions/Implementation/SWEA_1961_숫자배열회전.md">풀이</a> | 2026-11-14 | AI 힌트 참고 |  |
 |    구현/카운팅    | D3 | <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWczm7QaACgDFAWn">🚌 삼성시의 버스 노선</a> | SWEA | <a href="./solutions/Implementation/SWEA_6485_삼성시의버스노선.md">풀이</a> | 2026-11-14 |  |  |
 |    구현/배열    | D2 | <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PuPq6AaQDFAUq">🧩 어디에 단어가 들어갈 수 있을까</a> | SWEA | <a href="./solutions/Implementation/SWEA_1979_어디에단어가들어갈수있을까.md">풀이</a> | 2026-11-14 | AI 힌트 참고 |  |
 |    문자열/완전탐색    | D3 | <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14P0c6AAUCFAYi">🔎 String</a> | SWEA | <a href="./solutions/String/SWEA_1213_String.md">풀이</a> | 2026-11-14 | AI 풀이 참고 | ✅ |
